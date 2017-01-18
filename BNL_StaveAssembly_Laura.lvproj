@@ -182,6 +182,7 @@
 			<Item Name="ExamineImageCalibration.vi" Type="VI" URL="../Utils/ExamineImageCalibration.vi"/>
 			<Item Name="practiceImageAnalysis.vi" Type="VI" URL="../Analysis/practiceImageAnalysis.vi"/>
 			<Item Name="practiceImageAnalysis - HH.vi" Type="VI" URL="../Analysis/practiceImageAnalysis - HH.vi"/>
+			<Item Name="ToolingPinAnalysis.vi" Type="VI" URL="../Analysis/ToolingPinAnalysis.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -424,6 +425,9 @@
 			<Item Name="Aerotech.A3200.LabVIEW.dll" Type="Document" URL="../../../../../aerotech/controller/5.xx.xxx/A3200/pc/labview/2010/bin/Aerotech.A3200.LabVIEW.dll"/>
 			<Item Name="Aerotech.A3200.dll" Type="Document" URL="../../../../Aerotech/Desktop/BNL Stave Assembly/Bin/Aerotech.A3200.dll"/>
 			<Item Name="Aerotech.A3200.LabVIEW.dll" Type="Document" URL="../../../../Aerotech/Desktop/BNL Stave Assembly/Bin/Aerotech.A3200.LabVIEW.dll"/>
+			<Item Name="AverageXYZ (SubVI).vi" Type="VI" URL="../SubVIs/AverageXYZ (SubVI).vi"/>
+			<Item Name="CreatePointsOnLine (SubVI).vi" Type="VI" URL="../../BNLStaveAssemblyLauraWorking/SubVIs/CreatePointsOnLine (SubVI).vi"/>
+			<Item Name="XY error bars.vi" Type="VI" URL="../SubVIs/XY error bars.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="A3200 LabVIEW Operator Interface" Type="EXE">
