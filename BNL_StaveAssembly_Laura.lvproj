@@ -426,8 +426,9 @@
 			<Item Name="Aerotech.A3200.dll" Type="Document" URL="../../../../Aerotech/Desktop/BNL Stave Assembly/Bin/Aerotech.A3200.dll"/>
 			<Item Name="Aerotech.A3200.LabVIEW.dll" Type="Document" URL="../../../../Aerotech/Desktop/BNL Stave Assembly/Bin/Aerotech.A3200.LabVIEW.dll"/>
 			<Item Name="AverageXYZ (SubVI).vi" Type="VI" URL="../SubVIs/AverageXYZ (SubVI).vi"/>
-			<Item Name="CreatePointsOnLine (SubVI).vi" Type="VI" URL="../../BNLStaveAssemblyLauraWorking/SubVIs/CreatePointsOnLine (SubVI).vi"/>
+			<Item Name="CreatePointsOnLine (SubVI).vi" Type="VI" URL="../SubVIs/CreatePointsOnLine (SubVI).vi"/>
 			<Item Name="XY error bars.vi" Type="VI" URL="../SubVIs/XY error bars.vi"/>
+			<Item Name="AverageOneCoordOld(SubVI).vi" Type="VI" URL="../../../Downloads/AverageOneCoordOld(SubVI).vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="A3200 LabVIEW Operator Interface" Type="EXE">
