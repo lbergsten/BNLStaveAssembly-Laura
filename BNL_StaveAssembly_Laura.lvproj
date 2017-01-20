@@ -184,6 +184,7 @@
 			<Item Name="practiceImageAnalysis - HH.vi" Type="VI" URL="../Analysis/practiceImageAnalysis - HH.vi"/>
 			<Item Name="ToolingPinAnalysis.vi" Type="VI" URL="../Analysis/ToolingPinAnalysis.vi"/>
 		</Item>
+		<Item Name="RectangularROIonMatchPOS (SubVI).vi" Type="VI" URL="../SubVIs/RectangularROIonMatchPOS (SubVI).vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
